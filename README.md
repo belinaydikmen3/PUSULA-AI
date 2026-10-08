@@ -273,3 +273,17 @@ PUSULA, tek bir monolitik prompt yerine katmanlı ve sağlayıcıdan bağımsız
 ## 📄 License
 
 Bu proje [MIT](LICENSE) lisansı altında sunulmaktadır.
+
+---
+
+## 📌 Referans / İlham Kaynağı
+
+PUSULA projesinin fikir ve konsept geliştirme sürecinde, öğrenme deneyimini etkileşimli ve kişiselleştirilmiş bir yapıya dönüştürmeyi amaçlayan Wondering girişimi referans olarak incelenmiştir. PUSULA ise bu yaklaşımdan farklı olarak kendi hedefleri, özellikleri ve kullanıcı deneyimi doğrultusunda geliştirilmiştir. Wondering projesi geliştirme sürecinde yalnızca kavramsal bir referans olarak incelenmiş olup, PUSULA doğrudan bir kopyası değildir; bağımsız bir mimari, özgün kullanıcı deneyimi ve Türkiye üniversite dinamiklerine özel geliştirilmiş yeteneklerle inşa edilmiştir.
+
+* **Proje:** Wondering
+* **Platform:** Y Combinator
+* **Batch:** Summer 2026
+* **Yıl:** 2026
+* **Referans:** [https://www.ycombinator.com/companies/wondering](https://www.ycombinator.com/companies/wondering)
+
+
